@@ -151,7 +151,11 @@ int main() {
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/01ea6c22-73f6-4c49-a459-578c5cb18685)
+![image](https://github.com/user-attachments/assets/cb3b71d0-7c35-45b9-ad5b-57cf44893bf3)
+
+![image](https://github.com/user-attachments/assets/f6a86a49-be10-44e5-a742-befaf123f48e)
+
+
 
 ## RESULT
 
