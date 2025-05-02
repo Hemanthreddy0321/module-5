@@ -234,7 +234,9 @@ int main() {
 ```
 
  ## OUTPUT
-![image](https://github.com/user-attachments/assets/295a0275-1165-489b-a8c7-3609fc43c713)
+![image](https://github.com/user-attachments/assets/cb9a0f8e-661e-43ba-a62d-91f55a4e7d6e)
+
+![image](https://github.com/user-attachments/assets/af705564-ab08-4d65-9e18-7efada5fd5bb)
 
  
 
